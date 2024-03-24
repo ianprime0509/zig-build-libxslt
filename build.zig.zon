@@ -18,8 +18,8 @@
             .hash = "12201415880e4a93f167de007d131b64283cdd95ddb05aebd25595cf74ce9a14d0b0",
         },
         .libxml2 = .{
-            .url = "git+https://github.com/ianprime0509/zig-build-libxml2#4d1b7db156b0e7a19127c652adefdf27799770ab",
-            .hash = "122011b13203141cc965cfe6b070ffb5a8835eb906bb2cfd4650dbc17574e6e36fd5",
+            .url = "git+https://github.com/ianprime0509/zig-build-libxml2#a0d5335c222262e1c5b1af75c7038cf4209ff510",
+            .hash = "122072bb3d6bed8c249c9ba576aae4d6e13a0458a1be0ad1d5e334cec8b6e5fdde74",
         },
     },
 }
